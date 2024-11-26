@@ -40,12 +40,12 @@ search input 1, exit input 0:
 
 * At this time, choose to input 1 to search, and 0 to exit the program.
 
-* Input the number of documents shared by the data owner to the user (up to 100).
+* Input the number of documents shared by the data owner to the user.
 
 ```html
 dataowner: please input you share file number:  10
 ```
-* Input the keyword field for query (up to 4).
+* Input the keyword field for query.
 
 ```html
 user: please input you wanted keyword field:  2
