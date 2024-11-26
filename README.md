@@ -1,4 +1,4 @@
-# KASE
+# VC-KASE
 
 ## Introduction
 Verifiable Conjunctive Field Keyword Searchable Encryption with Aggregate Keys for Data Sharing
